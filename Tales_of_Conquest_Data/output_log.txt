@@ -1,0 +1,115 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     1136 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Razamahj\Documents\Junaid\Junaid Uni work\Second Year work\Group project\Submission\Tales_of_Conquest\Tales_of_Conquest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Razamahj\Documents\Junaid\Junaid Uni work\Second Year work\Group project\Submission\Tales_of_Conquest\Tales_of_Conquest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Razamahj\Documents\Junaid\Junaid Uni work\Second Year work\Group project\Submission\Tales_of_Conquest\Tales_of_Conquest_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Razamahj\Documents\Junaid\Junaid Uni work\Second Year work\Group project\Submission\Tales_of_Conquest\Tales_of_Conquest_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Razamahj\Documents\Junaid\Junaid Uni work\Second Year work\Group project\Submission\Tales_of_Conquest\Tales_of_Conquest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Razamahj\Documents\Junaid\Junaid Uni work\Second Year work\Group project\Submission\Tales_of_Conquest\Tales_of_Conquest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Razamahj\Documents\Junaid\Junaid Uni work\Second Year work\Group project\Submission\Tales_of_Conquest\Tales_of_Conquest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Razamahj\Documents\Junaid\Junaid Uni work\Second Year work\Group project\Submission\Tales_of_Conquest\Tales_of_Conquest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Razamahj\Documents\Junaid\Junaid Uni work\Second Year work\Group project\Submission\Tales_of_Conquest\Tales_of_Conquest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Razamahj\Documents\Junaid\Junaid Uni work\Second Year work\Group project\Submission\Tales_of_Conquest\Tales_of_Conquest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Razamahj\Documents\Junaid\Junaid Uni work\Second Year work\Group project\Submission\Tales_of_Conquest\Tales_of_Conquest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Razamahj\Documents\Junaid\Junaid Uni work\Second Year work\Group project\Submission\Tales_of_Conquest\Tales_of_Conquest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  1.886 seconds
+Platform assembly: C:\Users\Razamahj\Documents\Junaid\Junaid Uni work\Second Year work\Group project\Submission\Tales_of_Conquest\Tales_of_Conquest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Razamahj\Documents\Junaid\Junaid Uni work\Second Year work\Group project\Submission\Tales_of_Conquest\Tales_of_Conquest_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.608400 ms
+Setting up 1 worker threads for Enlighten.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.563700 ms
+  Thread -> id: 3a4c -> priority: 1 
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 432.
+Total: 0.565300 ms (FindLiveObjects: 0.048900 ms CreateObjectMapping: 0.029600 ms MarkObjects: 0.392300 ms  DeleteObjects: 0.093200 ms)
+
+UnityEngine.Random+State
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DETAIL :6 WIDTH: 65
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Can't add component 'AudioListener' to Main Camera because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+ArgumentException: An element with the same key already exists in the dictionary.
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.Sprite].Add (System.String key, UnityEngine.Sprite value) [0x00000] in <filename unknown>:0 
+  at MouseController.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: An element with the same key already exists in the dictionary.
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.Sprite].Add (System.String key, UnityEngine.Sprite value) [0x00000] in <filename unknown>:0 
+  at UnitController.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityEngine.Random+State
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DETAIL :6 WIDTH: 65
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnityEngine.Random+State
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DETAIL :6 WIDTH: 65
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DO NEXT TURN
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Moving Units
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DO NEXT TURN
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Moving Units
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnitController.removeUnit () [0x00000] in <filename unknown>:0 
+  at MouseController.manageUnits () [0x00000] in <filename unknown>:0 
+  at MouseController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnitController.removeUnit () [0x00000] in <filename unknown>:0 
+  at MouseController.manageUnits () [0x00000] in <filename unknown>:0 
+  at MouseController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnitController.removeUnit () [0x00000] in <filename unknown>:0 
+  at MouseController.manageUnits () [0x00000] in <filename unknown>:0 
+  at MouseController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
